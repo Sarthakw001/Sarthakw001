@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sarthak Bhatnagar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-
+<p align="center"> <a href='https://postimg.cc/9D8SJjf2' target='_blank'><img src='https://i.postimg.cc/9D8SJjf2/Whats-App-Image-2022-07-30-at-5-19-08-PM.jpg' border='0' alt='Whats-App-Image-2022-07-30-at-5-19-08-PM'/></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakw001&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakw001" /> </p>
 
 
-<p align="center"> <a href='https://postimg.cc/VJLBGrSr' target='_blank'><img src='https://i.postimg.cc/VJLBGrSr/Whats-App-Image-2022-07-30-at-5-16-39-PM.jpg' border='0' alt='Whats-App-Image-2022-07-30-at-5-16-39-PM'/></a></p>
+
 
 
 - 📝 I regularly write articles on [sarthakw01.hashnode.dev](sarthakw01.hashnode.dev)
