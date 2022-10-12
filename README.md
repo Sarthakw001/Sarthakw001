@@ -8,11 +8,11 @@
 
 
 
-- 📝 I regularly write articles on [sarthakw01.hashnode.dev](sarthakw01.hashnode.dev)
+- 📝 I regularly write articles on sarthakw01.hashnode.dev
 
 - 💬 Ask me about **Data Structures And algorithms & Full Stack Web Development**
 
-- 📫 How to reach me [sarthakw01@gmail.com]()
+- 📫 How to reach me sarthakw01@gmail.com
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uEpk-VPffyXmNxrOHlwZOapRRkz4iAVw/view?usp=sharing)
 
