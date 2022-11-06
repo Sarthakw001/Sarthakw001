@@ -14,7 +14,7 @@
 
 - 📫 How to reach me sarthakw01@gmail.com
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uEpk-VPffyXmNxrOHlwZOapRRkz4iAVw/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sHOiDl2EEYJghUtWyoa683bNmi2mcrG7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
