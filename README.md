@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **Data Structures And algorithms & Full Stack Web Development**
 
-- 📫 How to reach me sarthakw01@gmail.com
+- 📫 How to reach me sarthakbhatnagar673@gmail.com
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sHOiDl2EEYJghUtWyoa683bNmi2mcrG7/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RdoNCdXpNlu4YoaZSaPPSe39alOZUWWK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
